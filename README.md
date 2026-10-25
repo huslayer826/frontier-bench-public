@@ -4,7 +4,7 @@
 
 ### Can AI agents finish real engineering work?
 
-17 held-out engineering tasks. Three attempts per configuration. Hidden executable tests.
+17 held-out engineering tasks. Three attempts per task. Hidden executable tests.
 
 **Built by [Omar Yousef](https://github.com/huslayer826)**
 
@@ -50,13 +50,13 @@ These are development measurements, not official rankings. Completion campaigns 
 <tr>
 <td width="50%">
 
-**[Results](https://frontier-bench-omar.vercel.app)**  
+**[Results](https://frontier-bench-omar.vercel.app)**<br />
 Compare published model configurations and inspect each completed run.
 
 </td>
 <td width="50%">
 
-**[Methodology](https://frontier-bench-omar.vercel.app/methodology)**  
+**[Methodology](https://frontier-bench-omar.vercel.app/methodology)**<br />
 Understand scoring, isolation, controls, uncertainty, and limitations.
 
 </td>
@@ -64,13 +64,13 @@ Understand scoring, isolation, controls, uncertainty, and limitations.
 <tr>
 <td>
 
-**[Trial explorer](https://frontier-bench-omar.vercel.app/data/trials)**  
+**[Trial explorer](https://frontier-bench-omar.vercel.app/data/trials)**<br />
 Browse the sanitized outcomes behind the headline numbers.
 
 </td>
 <td>
 
-**[Updates](https://frontier-bench-omar.vercel.app/changelog)**  
+**[Updates](https://frontier-bench-omar.vercel.app/changelog)**<br />
 Follow the benchmark's published history.
 
 </td>
